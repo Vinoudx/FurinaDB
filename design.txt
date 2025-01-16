@@ -1,0 +1,59 @@
+use _name;      完成
+
+create database _name;  完成
+					
+CREATE TABLE Table_Name（		完成										
+'Field_Name1'  Type1 iSize1  KEY_Flag1  NULL_Flag1，
+'Field_Name2'  Type2 iSize2  KEY_Flag2  NULL_Flag2，
+'Field_Name3'  Type3 iSize3  KEY_Flag3  NULL_Flag3，
+….
+);
+
+key_flag 为1是键，0不是键
+null_flag 为1可以为空，为0不能为空
+valid_flag 为1有效，为0表示删除
+
+drop database _name;  完成
+
+show tables;  完成
+
+show databases; 完成
+
+desc _name;   完成
+
+RENAME TABLE TableName1 TableName2； 完成
+
+DROP TABLE TableName；   完成
+
+
+
+DELETE COL Table_Name Field_Name;  完成
+
+EDIT TABLE TableName（ 
+Field_Name  Type Size  KEY_Flag  NULL_Flag ) Field_Name；完成
+
+EDIT PASSWORD oldpassword newpassword newpassword; 
+
+
+先将这张表下所有page ，依次打开，增加一列，保存，最后再修改表中的mode  完成
+ADD COL Table_Name (Field_Name1  Type1  iSize1  KEY_Flag1  NULL_Flag1);
+
+
+不能显式插入一个NULL  应该完成
+insert into Table_name (Field_Name1 Field_Name1 ... ) values (value1 valu2 ...);
+ 
+
+select */field_name1 field_name2 ... from table_name1 where condition 完成
+
+
+
+delete from table_name where condition;    完成
+
+
+update table_name set field_name1=value1 field_name2=value2 ... where condition; 完成
+
+
+
+
+select 多表
+select table1.field1 table2.field2 from table1 join table2 on table11.field=table2.filed where condition;

@@ -1,0 +1,10 @@
+PASSWORD=63a9f0ea7bb98050796b649e85481845
+USER_NAME=root
+ROOT_PATH=D:/work/furinadb/furinadb
+//page size in B
+PAGE_SIZE=8192
+//buffer pool size in kuai
+BUFFER_POOL_SIZE=16
+//max length of base name and table name
+MAX_NAME_LENGTH=128
+MAX_STRING_TYPE_RECORD_LENGTH=128

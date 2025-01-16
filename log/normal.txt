@@ -1,0 +1,341 @@
+INFO 1736916948,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736916948,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736916948,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736916948,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736916949,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736916949,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736916949,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736916949,at D:\work\furinadb\furinadb\src\database\bufferpool.cpp, in line 64, saving all pages 
+INFO 1736916949,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736916949,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736916949,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736916949,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736916949,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736916949,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in table2 
+INFO 1736916951,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736916951,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736916951,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736916951,at D:\work\furinadb\furinadb\src\database\bufferpool.cpp, in line 64, saving all pages 
+INFO 1736916951,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in table2 
+INFO 1736916951,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944550,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944550,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944550,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944550,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944551,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944551,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944551,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944551,at D:\work\furinadb\furinadb\src\database\bufferpool.cpp, in line 64, saving all pages 
+INFO 1736944551,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944551,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944551,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944551,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944551,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944551,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in in 
+INFO 1736944553,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944553,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944553,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944553,at D:\work\furinadb\furinadb\src\database\bufferpool.cpp, in line 64, saving all pages 
+INFO 1736944553,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in in 
+INFO 1736944553,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944553,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944553,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944553,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944553,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944563,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944563,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944563,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944563,at D:\work\furinadb\furinadb\src\database\bufferpool.cpp, in line 64, saving all pages 
+INFO 1736944563,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in in 
+INFO 1736944563,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944563,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944563,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944563,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944563,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944586,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944586,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944586,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944586,at D:\work\furinadb\furinadb\src\database\bufferpool.cpp, in line 64, saving all pages 
+INFO 1736944586,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in in 
+INFO 1736944586,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944797,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944797,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944797,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944797,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944798,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944798,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944798,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944798,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944798,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944798,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944798,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944798,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944798,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in in 
+INFO 1736944802,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944802,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944802,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944802,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944802,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944802,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944802,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944802,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944811,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944811,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944811,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944811,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944811,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944811,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944811,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944811,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944811,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in table2 
+INFO 1736944820,at D:\work\furinadb\furinadb\src\database\bufferpool.cpp, in line 64, saving all pages 
+INFO 1736944820,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in in 
+INFO 1736944820,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in table2 
+INFO 1736944820,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944820,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944820,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944820,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944832,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944832,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944832,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944832,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944833,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944833,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944833,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944833,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944833,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944833,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944833,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944833,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944833,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in in 
+INFO 1736944858,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 115, insert into table in in page 1 
+INFO 1736944858,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in_a 
+INFO 1736944858,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in in_a 
+INFO 1736944858,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944858,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944858,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944858,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944858,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944858,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944858,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944858,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944861,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944861,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944861,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944861,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944861,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944861,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944861,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944861,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944863,at D:\work\furinadb\furinadb\src\database\bufferpool.cpp, in line 64, saving all pages 
+INFO 1736944863,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in in 
+INFO 1736944863,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in in_a 
+INFO 1736944863,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944863,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944863,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944863,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944870,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944870,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944870,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944870,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944871,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944871,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944871,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944871,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944871,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944871,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944871,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944871,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944871,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in in 
+INFO 1736944873,at D:\work\furinadb\furinadb\src\database\bufferpool.cpp, in line 64, saving all pages 
+INFO 1736944873,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in in 
+INFO 1736944873,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944873,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944873,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944873,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944919,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944919,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944919,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944919,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944920,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944920,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944920,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944920,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944920,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944920,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944920,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944920,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944920,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in in 
+INFO 1736944923,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944923,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944923,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944923,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944923,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944923,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944923,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944923,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944923,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in table2 
+INFO 1736944932,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944932,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944932,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944932,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944932,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944932,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944932,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944932,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944936,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944936,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944936,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944936,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944936,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944936,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944936,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944936,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944936,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in table1 
+INFO 1736944957,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944957,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944957,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944957,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944957,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944957,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944957,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944957,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736944988,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736944988,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736944988,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736944988,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736944988,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736944988,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736944988,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736944988,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736945023,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736945023,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736945023,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736945023,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736945023,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736945023,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736945023,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736945023,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736945025,at D:\work\furinadb\furinadb\src\database\bufferpool.cpp, in line 64, saving all pages 
+INFO 1736945025,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in in 
+INFO 1736945025,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in table2 
+INFO 1736945025,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in table1 
+INFO 1736945025,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736945025,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736945025,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736945025,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736945033,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736945033,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736945033,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736945033,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736945034,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736945034,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736945034,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736945034,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736945034,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736945034,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736945034,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736945034,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736945034,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in table1 
+INFO 1736945035,at D:\work\furinadb\furinadb\src\database\bufferpool.cpp, in line 64, saving all pages 
+INFO 1736945035,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in table1 
+INFO 1736945035,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736945035,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736945035,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736945035,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736987078,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736987078,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736987078,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736987078,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736987079,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in in 
+INFO 1736987083,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in table2 
+INFO 1736987086,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in table1 
+INFO 1736987094,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736987094,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736987094,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736987094,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736987094,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database base2 
+INFO 1736987094,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736987094,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736987097,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in table1 
+INFO 1736987099,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in table2 
+INFO 1736987105,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736987105,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736987105,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database base2 
+INFO 1736987105,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database base1 
+INFO 1736987105,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table3 
+INFO 1736987106,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in table3 
+INFO 1736987108,at D:\work\furinadb\furinadb\src\database\bufferpool.cpp, in line 64, saving all pages 
+INFO 1736987108,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in in 
+INFO 1736987108,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in table2 
+INFO 1736987108,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in table1 
+INFO 1736987108,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in table1 
+INFO 1736987108,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in table2 
+INFO 1736987108,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in table3 
+INFO 1736987108,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table3 
+INFO 1736987108,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database base1 
+INFO 1736987118,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736987118,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736987118,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736987118,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736987118,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in table1 
+INFO 1736987120,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in table2 
+INFO 1736987122,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in in 
+INFO 1736987124,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736987124,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736987124,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736987124,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736987124,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database base2 
+INFO 1736987124,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736987124,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736987125,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in table1 
+INFO 1736987126,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in table2 
+INFO 1736987128,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736987128,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736987128,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database base2 
+INFO 1736987128,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database base1 
+INFO 1736987128,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table3 
+INFO 1736987129,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in table3 
+INFO 1736987131,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table3 
+INFO 1736987131,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database base1 
+INFO 1736987131,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736987131,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736987131,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736987131,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736987138,at D:\work\furinadb\furinadb\src\database\bufferpool.cpp, in line 64, saving all pages 
+INFO 1736987138,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in table1 
+INFO 1736987138,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in table2 
+INFO 1736987138,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in in 
+INFO 1736987138,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in table1 
+INFO 1736987138,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in table2 
+INFO 1736987138,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in table3 
+INFO 1736987138,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736987138,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736987138,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736987138,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736989211,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736989211,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736989211,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736989211,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736989215,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in in 
+INFO 1736989218,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in table2 
+INFO 1736989222,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in table1 
+INFO 1736989250,at D:\work\furinadb\furinadb\src\database\bufferpool.cpp, in line 64, saving all pages 
+INFO 1736989250,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in in 
+INFO 1736989250,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in table2 
+INFO 1736989250,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in table1 
+INFO 1736989250,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736989250,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736989250,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736989250,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 
+INFO 1736991191,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 67, load database tt 
+INFO 1736991191,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table1 
+INFO 1736991191,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table table2 
+INFO 1736991191,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 97, load table in 
+INFO 1736991215,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 108, load page 0 in in 
+INFO 1736991224,at D:\work\furinadb\furinadb\src\database\bufferpool.cpp, in line 64, saving all pages 
+INFO 1736991224,at D:\work\furinadb\furinadb\src\database\page.cpp, in line 41, save page 0 in in 
+INFO 1736991224,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table1 
+INFO 1736991224,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table table2 
+INFO 1736991224,at D:\work\furinadb\furinadb\src\database\table.cpp, in line 74, save table in 
+INFO 1736991224,at D:\work\furinadb\furinadb\src\database\database.cpp, in line 63, close database tt 

@@ -1,0 +1,41 @@
+数据库表结构：
+类型         	   解释                 大小
+size_t  	数据表数量        size_t
+.
+string		数据表名		 MAX_NAME_LENGTH
+size_t		字段数量
+TableMode	字段类型		 TableMode
+.
+...
+
+
+数据表.dat文件结构 如果是索引表则文件名为 表名_列名_inde.dat
+类型		解释
+size_t 		含有页数
+size_t		含有字段数
+char[5]		表类型，data和inde
+.
+pages
+.
+...
+
+
+数据页结构
+类型		解释
+size_t		页号
+size_t		记录条数
+size_t		最大记录条数
+size_t		列数
+很多记录
+
+
+
+
+
+定义操作：对表的增删改查，创建，对page的增删改查（通过page类实现），获得page
+
+
+
+
+
+
